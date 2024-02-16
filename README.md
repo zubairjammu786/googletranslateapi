@@ -1,9 +1,11 @@
 # Google Translate API
-
 This Python script provides a simple interface to Google Translate API, allowing you to translate text between different languages.
 
-## Usage
+## Dependencies
+- Python 3.x
+- requests library
 
+## Usage
 1. Clone the repository:
 
     ```bash
@@ -30,11 +32,5 @@ This Python script provides a simple interface to Google Translate API, allowing
 
 5. Follow the on-screen instructions to enter the source language, target language, and text to translate.
 
-## Dependencies
-
-- Python 3.x
-- requests library
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Disclaimer
+This is not an official API or script from Google. We suggest you to buy it from Google Cloud. 
