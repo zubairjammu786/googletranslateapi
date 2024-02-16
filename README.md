@@ -19,7 +19,7 @@ This Python script provides a simple interface to Google Translate API, allowing
 3. Install the required dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install requests
     ```
 
 4. Run the script:
