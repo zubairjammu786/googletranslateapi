@@ -31,6 +31,7 @@ This Python script provides a simple interface to Google Translate API, allowing
     ```
 
 5. Follow the on-screen instructions to enter the source language, target language, and text to translate.
+6. Enter language prefixes such as en for English, ur for Urdu not full name.
 
 ## Disclaimer
 This is not an official API or script from Google. We suggest you to buy it from Google Cloud. 
